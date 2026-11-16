@@ -97,7 +97,11 @@ sudo systemctl enable --now docker
 ```
 
 ---
+## Build the image from your Dockerfile
 
+```bash
+docker build -t hello-docker .
+````
 ## 4. Images
 
 ```bash
