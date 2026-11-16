@@ -545,3 +545,12 @@ sudo pacman -S docker-buildx
 docker system df                # See what's using space
 docker system prune -a          # Clean up unused items
 ```
+
+
+
+
+
+
+
+
+
